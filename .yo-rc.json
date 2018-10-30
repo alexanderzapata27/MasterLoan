@@ -1,0 +1,32 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "co.com.arq.loan"
+    },
+    "jhipsterVersion": "5.4.2",
+    "applicationType": "microservice",
+    "baseName": "MasterLoan",
+    "packageName": "co.com.arq.loan",
+    "packageFolder": "co/com/arq/loan",
+    "serverPort": "8181",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MmYxMDA0NjM2ZGMxNjU1ZmRiOTNiYWQ1NTdlYzY3ZDgxYWE0MWM1NzhkYzEyYzVkMDkxY2E0NGE1Yzc0MTQ2ZGRiZWNjNDI2YTEyMDczZmJiMzgxYzA5ZjY2NTllYWRiOTYxMThiNGQ3OTI2YzFjNzRhNDY0OTVkYTI1YzljYTE=",
+    "enableTranslation": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
